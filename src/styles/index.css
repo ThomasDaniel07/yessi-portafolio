@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
+.font-pt{
+  font-family: 'PT Serif Caption';
+}
+.font-montserrat{
+  font-family: "Montserrat";
+}
+.font-poppins{
+  font-family: "Poppins";
+}
+.text-color1{
+  color: #332A43;
+}
+.bg-container1{
+  background-color: #CFAAFF;
+}
+.shadow-text{
+  color: white;
+  text-shadow: 10px 2px 10px;
+  color: rgba(0, 0, 0, 0.155);
+}
